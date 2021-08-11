@@ -1,0 +1,6 @@
+devel_space: /root/HSR/catkin_ws/src/tray_detector/devel
+install: false
+install_space: /root/HSR/catkin_ws/src/tray_detector/install
+profile: default
+source_space: /root/HSR/catkin_ws/src/tray_detector/src
+workspace: /root/HSR/catkin_ws/src/tray_detector

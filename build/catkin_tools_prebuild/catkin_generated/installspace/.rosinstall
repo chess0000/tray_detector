@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/HSR/catkin_ws/src/tray_detector/install/setup.sh

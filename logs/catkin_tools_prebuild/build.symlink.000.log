@@ -1,0 +1,12 @@
+Symlinking /root/HSR/catkin_ws/src/tray_detector/devel/./local_setup.zsh
+Symlinking /root/HSR/catkin_ws/src/tray_detector/devel/./setup.sh
+Symlinking /root/HSR/catkin_ws/src/tray_detector/devel/./local_setup.sh
+Symlinking /root/HSR/catkin_ws/src/tray_detector/devel/./env.sh
+Symlinking /root/HSR/catkin_ws/src/tray_detector/devel/./setup.bash
+Symlinking /root/HSR/catkin_ws/src/tray_detector/devel/./setup.zsh
+Symlinking /root/HSR/catkin_ws/src/tray_detector/devel/./_setup_util.py
+Symlinking /root/HSR/catkin_ws/src/tray_detector/devel/./cmake.lock
+Symlinking /root/HSR/catkin_ws/src/tray_detector/devel/./local_setup.bash
+Symlinking /root/HSR/catkin_ws/src/tray_detector/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /root/HSR/catkin_ws/src/tray_detector/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /root/HSR/catkin_ws/src/tray_detector/devel/lib/pkgconfig/catkin_tools_prebuild.pc

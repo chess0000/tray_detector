@@ -1,0 +1,1 @@
+/root/HSR/catkin_ws/src/tray_detector/devel/.private/catkin_tools_prebuild/_setup_util.py
