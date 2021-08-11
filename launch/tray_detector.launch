@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="tray_detector" name="tray_detector"/>
+</launch>
